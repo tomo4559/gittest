@@ -1,3 +1,0 @@
-# phptest
-aa
-aa
